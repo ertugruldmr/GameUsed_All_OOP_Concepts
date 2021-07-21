@@ -36,4 +36,7 @@ Check "Project Description" "Methods which used in this project" sections where 
 	-->GUI development
 	-->Dynamic data structures
 
-## Images
+## Image
+![Gold Rush Simulation](https://user-images.githubusercontent.com/44205116/126537669-219a79f1-f02a-4e2f-92cf-7e25ef47b4de.gif)
+
+
