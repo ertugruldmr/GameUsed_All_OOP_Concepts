@@ -1,0 +1,32 @@
+*************************************************************************************************************************
+
+Player D'nin kayırları aşşağıdaki gibidir:
+
+*************************************************************************************************************************
+-------------------------------------------------------------------------------------------------------------------------
+Raund:1
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :16,59
+Hareket başlangıç konumu: 17,59 Hareket bitiş konumu: 16,59
+Bu raund boyunca harcanan altın miktarı: 20
+Bu raund içerisinde altın ele geçirildi miktarı: 150
+B oyuncusu Elendiniz, Mevcut dereceniz:0
+
+Player D'nin son durumu:
+
+Oyuncunun konumu:16,59
+Hedefin konumu: 16,59
+Kasadaki altın miktarı: 230
+Toplamda ele geçirilen altın mitarı: 150
+Toplamda harcanan altın miktarı: 20
+Bu raund içerisinde kazanılan altın: 150
+Bu raund içerisinde harcanan altın: 20
+
+-------------------------------------------------------------------------------------------------------------------------
+
+
+*************************************************************************************************************************
+OYUN BİTMIŞTİR.
+*************************************************************************************************************************

@@ -1,0 +1,4227 @@
+*************************************************************************************************************************
+
+Player B'nin kayırları aşşağıdaki gibidir:
+
+*************************************************************************************************************************
+-------------------------------------------------------------------------------------------------------------------------
+Raund:1
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :2,53
+Hareket başlangıç konumu: 0,59 Hareket bitiş konumu: 2,56
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:2,56
+Hedefin konumu: 2,53
+Kasadaki altın miktarı: 40
+Toplamda ele geçirilen altın mitarı: 0
+Toplamda harcanan altın miktarı: 60
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:2
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 2,56 Hareket bitiş konumu: 2,53
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 250
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:2,53
+Hedefin konumu: 2,53
+Kasadaki altın miktarı: 280
+Toplamda ele geçirilen altın mitarı: 250
+Toplamda harcanan altın miktarı: 70
+Bu raund içerisinde kazanılan altın: 250
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:3
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :13,55
+Hareket başlangıç konumu: 2,53 Hareket bitiş konumu: 5,55
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:5,55
+Hedefin konumu: 13,55
+Kasadaki altın miktarı: 220
+Toplamda ele geçirilen altın mitarı: 250
+Toplamda harcanan altın miktarı: 130
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:4
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 5,55 Hareket bitiş konumu: 10,55
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:10,55
+Hedefin konumu: 13,55
+Kasadaki altın miktarı: 210
+Toplamda ele geçirilen altın mitarı: 250
+Toplamda harcanan altın miktarı: 140
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:5
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 10,55 Hareket bitiş konumu: 13,55
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 250
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:13,55
+Hedefin konumu: 13,55
+Kasadaki altın miktarı: 450
+Toplamda ele geçirilen altın mitarı: 500
+Toplamda harcanan altın miktarı: 150
+Bu raund içerisinde kazanılan altın: 250
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:6
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :13,48
+Hareket başlangıç konumu: 13,55 Hareket bitiş konumu: 13,50
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:13,50
+Hedefin konumu: 13,48
+Kasadaki altın miktarı: 390
+Toplamda ele geçirilen altın mitarı: 500
+Toplamda harcanan altın miktarı: 210
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:7
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 13,50 Hareket bitiş konumu: 13,48
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 250
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:13,48
+Hedefin konumu: 13,48
+Kasadaki altın miktarı: 630
+Toplamda ele geçirilen altın mitarı: 750
+Toplamda harcanan altın miktarı: 220
+Bu raund içerisinde kazanılan altın: 250
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:8
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :13,38
+Hareket başlangıç konumu: 13,48 Hareket bitiş konumu: 13,43
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:13,43
+Hedefin konumu: 13,38
+Kasadaki altın miktarı: 570
+Toplamda ele geçirilen altın mitarı: 750
+Toplamda harcanan altın miktarı: 280
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:9
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 13,43 Hareket bitiş konumu: 13,38
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 250
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:13,38
+Hedefin konumu: 13,38
+Kasadaki altın miktarı: 810
+Toplamda ele geçirilen altın mitarı: 1000
+Toplamda harcanan altın miktarı: 290
+Bu raund içerisinde kazanılan altın: 250
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:10
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :12,38
+Hareket başlangıç konumu: 13,38 Hareket bitiş konumu: 12,38
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 250
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:12,38
+Hedefin konumu: 12,38
+Kasadaki altın miktarı: 1000
+Toplamda ele geçirilen altın mitarı: 1250
+Toplamda harcanan altın miktarı: 350
+Bu raund içerisinde kazanılan altın: 250
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:11
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :5,38
+Hareket başlangıç konumu: 12,38 Hareket bitiş konumu: 7,38
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:7,38
+Hedefin konumu: 5,38
+Kasadaki altın miktarı: 940
+Toplamda ele geçirilen altın mitarı: 1250
+Toplamda harcanan altın miktarı: 410
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:12
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 7,38 Hareket bitiş konumu: 5,38
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 250
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:5,38
+Hedefin konumu: 5,38
+Kasadaki altın miktarı: 1180
+Toplamda ele geçirilen altın mitarı: 1500
+Toplamda harcanan altın miktarı: 420
+Bu raund içerisinde kazanılan altın: 250
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:13
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :9,33
+Hareket başlangıç konumu: 5,38 Hareket bitiş konumu: 5,33
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:5,33
+Hedefin konumu: 9,33
+Kasadaki altın miktarı: 1120
+Toplamda ele geçirilen altın mitarı: 1500
+Toplamda harcanan altın miktarı: 480
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:14
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 5,33 Hareket bitiş konumu: 9,33
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 250
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,33
+Hedefin konumu: 9,33
+Kasadaki altın miktarı: 1360
+Toplamda ele geçirilen altın mitarı: 1750
+Toplamda harcanan altın miktarı: 490
+Bu raund içerisinde kazanılan altın: 250
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:15
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :8,30
+Hareket başlangıç konumu: 9,33 Hareket bitiş konumu: 8,30
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 250
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:8,30
+Hedefin konumu: 8,30
+Kasadaki altın miktarı: 1550
+Toplamda ele geçirilen altın mitarı: 2000
+Toplamda harcanan altın miktarı: 550
+Bu raund içerisinde kazanılan altın: 250
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:16
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :12,30
+Hareket başlangıç konumu: 8,30 Hareket bitiş konumu: 12,30
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 250
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:12,30
+Hedefin konumu: 12,30
+Kasadaki altın miktarı: 1740
+Toplamda ele geçirilen altın mitarı: 2250
+Toplamda harcanan altın miktarı: 610
+Bu raund içerisinde kazanılan altın: 250
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:17
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :17,30
+Hareket başlangıç konumu: 12,30 Hareket bitiş konumu: 17,30
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 250
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:17,30
+Hedefin konumu: 17,30
+Kasadaki altın miktarı: 1930
+Toplamda ele geçirilen altın mitarı: 2500
+Toplamda harcanan altın miktarı: 670
+Bu raund içerisinde kazanılan altın: 250
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:18
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :5,27
+Hareket başlangıç konumu: 17,30 Hareket bitiş konumu: 15,27
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:15,27
+Hedefin konumu: 5,27
+Kasadaki altın miktarı: 1870
+Toplamda ele geçirilen altın mitarı: 2500
+Toplamda harcanan altın miktarı: 730
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:19
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 15,27 Hareket bitiş konumu: 10,27
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:10,27
+Hedefin konumu: 5,27
+Kasadaki altın miktarı: 1860
+Toplamda ele geçirilen altın mitarı: 2500
+Toplamda harcanan altın miktarı: 740
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:20
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 10,27 Hareket bitiş konumu: 5,27
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 250
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:5,27
+Hedefin konumu: 5,27
+Kasadaki altın miktarı: 2100
+Toplamda ele geçirilen altın mitarı: 2750
+Toplamda harcanan altın miktarı: 750
+Bu raund içerisinde kazanılan altın: 250
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:21
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :4,16
+Hareket başlangıç konumu: 5,27 Hareket bitiş konumu: 4,23
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:4,23
+Hedefin konumu: 4,16
+Kasadaki altın miktarı: 2040
+Toplamda ele geçirilen altın mitarı: 2750
+Toplamda harcanan altın miktarı: 810
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:22
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 4,23 Hareket bitiş konumu: 4,18
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:4,18
+Hedefin konumu: 4,16
+Kasadaki altın miktarı: 2030
+Toplamda ele geçirilen altın mitarı: 2750
+Toplamda harcanan altın miktarı: 820
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:23
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 4,18 Hareket bitiş konumu: 4,16
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 250
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:4,16
+Hedefin konumu: 4,16
+Kasadaki altın miktarı: 2270
+Toplamda ele geçirilen altın mitarı: 3000
+Toplamda harcanan altın miktarı: 830
+Bu raund içerisinde kazanılan altın: 250
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:24
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :1,15
+Hareket başlangıç konumu: 4,16 Hareket bitiş konumu: 1,15
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 250
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:1,15
+Hedefin konumu: 1,15
+Kasadaki altın miktarı: 2460
+Toplamda ele geçirilen altın mitarı: 3250
+Toplamda harcanan altın miktarı: 890
+Bu raund içerisinde kazanılan altın: 250
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:25
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :2,11
+Hareket başlangıç konumu: 1,15 Hareket bitiş konumu: 2,11
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 250
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:2,11
+Hedefin konumu: 2,11
+Kasadaki altın miktarı: 2650
+Toplamda ele geçirilen altın mitarı: 3500
+Toplamda harcanan altın miktarı: 950
+Bu raund içerisinde kazanılan altın: 250
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:26
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :8,15
+Hareket başlangıç konumu: 2,11 Hareket bitiş konumu: 3,15
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:3,15
+Hedefin konumu: 8,15
+Kasadaki altın miktarı: 2590
+Toplamda ele geçirilen altın mitarı: 3500
+Toplamda harcanan altın miktarı: 1010
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:27
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 3,15 Hareket bitiş konumu: 8,15
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 250
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:8,15
+Hedefin konumu: 8,15
+Kasadaki altın miktarı: 2830
+Toplamda ele geçirilen altın mitarı: 3750
+Toplamda harcanan altın miktarı: 1020
+Bu raund içerisinde kazanılan altın: 250
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:28
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :9,8
+Hareket başlangıç konumu: 8,15 Hareket bitiş konumu: 9,11
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,11
+Hedefin konumu: 9,8
+Kasadaki altın miktarı: 2770
+Toplamda ele geçirilen altın mitarı: 3750
+Toplamda harcanan altın miktarı: 1080
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:29
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 9,11 Hareket bitiş konumu: 9,8
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 250
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,8
+Hedefin konumu: 9,8
+Kasadaki altın miktarı: 3010
+Toplamda ele geçirilen altın mitarı: 4000
+Toplamda harcanan altın miktarı: 1090
+Bu raund içerisinde kazanılan altın: 250
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:30
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :12,6
+Hareket başlangıç konumu: 9,8 Hareket bitiş konumu: 12,6
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 250
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:12,6
+Hedefin konumu: 12,6
+Kasadaki altın miktarı: 3200
+Toplamda ele geçirilen altın mitarı: 4250
+Toplamda harcanan altın miktarı: 1150
+Bu raund içerisinde kazanılan altın: 250
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:31
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :12,7
+Hareket başlangıç konumu: 12,6 Hareket bitiş konumu: 12,7
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 250
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:12,7
+Hedefin konumu: 12,7
+Kasadaki altın miktarı: 3390
+Toplamda ele geçirilen altın mitarı: 4500
+Toplamda harcanan altın miktarı: 1210
+Bu raund içerisinde kazanılan altın: 250
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:32
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :15,8
+Hareket başlangıç konumu: 12,7 Hareket bitiş konumu: 15,8
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 250
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:15,8
+Hedefin konumu: 15,8
+Kasadaki altın miktarı: 3580
+Toplamda ele geçirilen altın mitarı: 4750
+Toplamda harcanan altın miktarı: 1270
+Bu raund içerisinde kazanılan altın: 250
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:33
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :9,0
+Hareket başlangıç konumu: 15,8 Hareket bitiş konumu: 12,6
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:12,6
+Hedefin konumu: 9,0
+Kasadaki altın miktarı: 3520
+Toplamda ele geçirilen altın mitarı: 4750
+Toplamda harcanan altın miktarı: 1330
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:34
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 12,6 Hareket bitiş konumu: 9,4
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,4
+Hedefin konumu: 9,0
+Kasadaki altın miktarı: 3510
+Toplamda ele geçirilen altın mitarı: 4750
+Toplamda harcanan altın miktarı: 1340
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:35
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 9,4 Hareket bitiş konumu: 9,0
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 250
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,0
+Hedefin konumu: 9,0
+Kasadaki altın miktarı: 3750
+Toplamda ele geçirilen altın mitarı: 5000
+Toplamda harcanan altın miktarı: 1350
+Bu raund içerisinde kazanılan altın: 250
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:36
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :13,18
+Hareket başlangıç konumu: 9,0 Hareket bitiş konumu: 13,1
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:13,1
+Hedefin konumu: 13,18
+Kasadaki altın miktarı: 3690
+Toplamda ele geçirilen altın mitarı: 5000
+Toplamda harcanan altın miktarı: 1410
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:37
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 13,1 Hareket bitiş konumu: 13,6
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:13,6
+Hedefin konumu: 13,18
+Kasadaki altın miktarı: 3680
+Toplamda ele geçirilen altın mitarı: 5000
+Toplamda harcanan altın miktarı: 1420
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:38
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 13,6 Hareket bitiş konumu: 13,11
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:13,11
+Hedefin konumu: 13,18
+Kasadaki altın miktarı: 3670
+Toplamda ele geçirilen altın mitarı: 5000
+Toplamda harcanan altın miktarı: 1430
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:39
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 13,11 Hareket bitiş konumu: 13,16
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:13,16
+Hedefin konumu: 13,18
+Kasadaki altın miktarı: 3660
+Toplamda ele geçirilen altın mitarı: 5000
+Toplamda harcanan altın miktarı: 1440
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:40
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 13,16 Hareket bitiş konumu: 13,18
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 250
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:13,18
+Hedefin konumu: 13,18
+Kasadaki altın miktarı: 3900
+Toplamda ele geçirilen altın mitarı: 5250
+Toplamda harcanan altın miktarı: 1450
+Bu raund içerisinde kazanılan altın: 250
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:41
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :16,20
+Hareket başlangıç konumu: 13,18 Hareket bitiş konumu: 16,20
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 250
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:16,20
+Hedefin konumu: 16,20
+Kasadaki altın miktarı: 4090
+Toplamda ele geçirilen altın mitarı: 5500
+Toplamda harcanan altın miktarı: 1510
+Bu raund içerisinde kazanılan altın: 250
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:42
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :15,24
+Hareket başlangıç konumu: 16,20 Hareket bitiş konumu: 15,24
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 200
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:15,24
+Hedefin konumu: 15,24
+Kasadaki altın miktarı: 4230
+Toplamda ele geçirilen altın mitarı: 5700
+Toplamda harcanan altın miktarı: 1570
+Bu raund içerisinde kazanılan altın: 200
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:43
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :2,24
+Hareket başlangıç konumu: 15,24 Hareket bitiş konumu: 10,24
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:10,24
+Hedefin konumu: 2,24
+Kasadaki altın miktarı: 4170
+Toplamda ele geçirilen altın mitarı: 5700
+Toplamda harcanan altın miktarı: 1630
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:44
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 10,24 Hareket bitiş konumu: 5,24
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:5,24
+Hedefin konumu: 2,24
+Kasadaki altın miktarı: 4160
+Toplamda ele geçirilen altın mitarı: 5700
+Toplamda harcanan altın miktarı: 1640
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:45
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 5,24 Hareket bitiş konumu: 2,24
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 200
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:2,24
+Hedefin konumu: 2,24
+Kasadaki altın miktarı: 4350
+Toplamda ele geçirilen altın mitarı: 5900
+Toplamda harcanan altın miktarı: 1650
+Bu raund içerisinde kazanılan altın: 200
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:46
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :5,17
+Hareket başlangıç konumu: 2,24 Hareket bitiş konumu: 5,22
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:5,22
+Hedefin konumu: 5,17
+Kasadaki altın miktarı: 4290
+Toplamda ele geçirilen altın mitarı: 5900
+Toplamda harcanan altın miktarı: 1710
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:47
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 5,22 Hareket bitiş konumu: 5,17
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 200
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:5,17
+Hedefin konumu: 5,17
+Kasadaki altın miktarı: 4480
+Toplamda ele geçirilen altın mitarı: 6100
+Toplamda harcanan altın miktarı: 1720
+Bu raund içerisinde kazanılan altın: 200
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:48
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :7,16
+Hareket başlangıç konumu: 5,17 Hareket bitiş konumu: 7,16
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 200
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:7,16
+Hedefin konumu: 7,16
+Kasadaki altın miktarı: 4620
+Toplamda ele geçirilen altın mitarı: 6300
+Toplamda harcanan altın miktarı: 1780
+Bu raund içerisinde kazanılan altın: 200
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:49
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :11,14
+Hareket başlangıç konumu: 7,16 Hareket bitiş konumu: 10,14
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:10,14
+Hedefin konumu: 11,14
+Kasadaki altın miktarı: 4560
+Toplamda ele geçirilen altın mitarı: 6300
+Toplamda harcanan altın miktarı: 1840
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:50
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 10,14 Hareket bitiş konumu: 11,14
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 200
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:11,14
+Hedefin konumu: 11,14
+Kasadaki altın miktarı: 4750
+Toplamda ele geçirilen altın mitarı: 6500
+Toplamda harcanan altın miktarı: 1850
+Bu raund içerisinde kazanılan altın: 200
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:51
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :11,5
+Hareket başlangıç konumu: 11,14 Hareket bitiş konumu: 11,9
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:11,9
+Hedefin konumu: 11,5
+Kasadaki altın miktarı: 4690
+Toplamda ele geçirilen altın mitarı: 6500
+Toplamda harcanan altın miktarı: 1910
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:52
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 11,9 Hareket bitiş konumu: 11,5
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 200
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:11,5
+Hedefin konumu: 11,5
+Kasadaki altın miktarı: 4880
+Toplamda ele geçirilen altın mitarı: 6700
+Toplamda harcanan altın miktarı: 1920
+Bu raund içerisinde kazanılan altın: 200
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:53
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :13,3
+Hareket başlangıç konumu: 11,5 Hareket bitiş konumu: 13,3
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 200
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:13,3
+Hedefin konumu: 13,3
+Kasadaki altın miktarı: 5020
+Toplamda ele geçirilen altın mitarı: 6900
+Toplamda harcanan altın miktarı: 1980
+Bu raund içerisinde kazanılan altın: 200
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:54
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :17,3
+Hareket başlangıç konumu: 13,3 Hareket bitiş konumu: 17,3
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 200
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:17,3
+Hedefin konumu: 17,3
+Kasadaki altın miktarı: 5160
+Toplamda ele geçirilen altın mitarı: 7100
+Toplamda harcanan altın miktarı: 2040
+Bu raund içerisinde kazanılan altın: 200
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:55
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :16,0
+Hareket başlangıç konumu: 17,3 Hareket bitiş konumu: 16,0
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 200
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:16,0
+Hedefin konumu: 16,0
+Kasadaki altın miktarı: 5300
+Toplamda ele geçirilen altın mitarı: 7300
+Toplamda harcanan altın miktarı: 2100
+Bu raund içerisinde kazanılan altın: 200
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:56
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :7,3
+Hareket başlangıç konumu: 16,0 Hareket bitiş konumu: 14,3
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:14,3
+Hedefin konumu: 7,3
+Kasadaki altın miktarı: 5240
+Toplamda ele geçirilen altın mitarı: 7300
+Toplamda harcanan altın miktarı: 2160
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:57
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 14,3 Hareket bitiş konumu: 9,3
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,3
+Hedefin konumu: 7,3
+Kasadaki altın miktarı: 5230
+Toplamda ele geçirilen altın mitarı: 7300
+Toplamda harcanan altın miktarı: 2170
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:58
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 9,3 Hareket bitiş konumu: 7,3
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 200
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:7,3
+Hedefin konumu: 7,3
+Kasadaki altın miktarı: 5420
+Toplamda ele geçirilen altın mitarı: 7500
+Toplamda harcanan altın miktarı: 2180
+Bu raund içerisinde kazanılan altın: 200
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:59
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :0,7
+Hareket başlangıç konumu: 7,3 Hareket bitiş konumu: 6,7
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:6,7
+Hedefin konumu: 0,7
+Kasadaki altın miktarı: 5360
+Toplamda ele geçirilen altın mitarı: 7500
+Toplamda harcanan altın miktarı: 2240
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:60
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 6,7 Hareket bitiş konumu: 1,7
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:1,7
+Hedefin konumu: 0,7
+Kasadaki altın miktarı: 5350
+Toplamda ele geçirilen altın mitarı: 7500
+Toplamda harcanan altın miktarı: 2250
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:61
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 1,7 Hareket bitiş konumu: 0,7
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 200
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:0,7
+Hedefin konumu: 0,7
+Kasadaki altın miktarı: 5540
+Toplamda ele geçirilen altın mitarı: 7700
+Toplamda harcanan altın miktarı: 2260
+Bu raund içerisinde kazanılan altın: 200
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:62
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :2,6
+Hareket başlangıç konumu: 0,7 Hareket bitiş konumu: 2,6
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 150
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:2,6
+Hedefin konumu: 2,6
+Kasadaki altın miktarı: 5630
+Toplamda ele geçirilen altın mitarı: 7850
+Toplamda harcanan altın miktarı: 2320
+Bu raund içerisinde kazanılan altın: 150
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:63
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :3,3
+Hareket başlangıç konumu: 2,6 Hareket bitiş konumu: 3,3
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 150
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:3,3
+Hedefin konumu: 3,3
+Kasadaki altın miktarı: 5720
+Toplamda ele geçirilen altın mitarı: 8000
+Toplamda harcanan altın miktarı: 2380
+Bu raund içerisinde kazanılan altın: 150
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:64
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :6,29
+Hareket başlangıç konumu: 3,3 Hareket bitiş konumu: 6,5
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:6,5
+Hedefin konumu: 6,29
+Kasadaki altın miktarı: 5660
+Toplamda ele geçirilen altın mitarı: 8000
+Toplamda harcanan altın miktarı: 2440
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:65
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 6,5 Hareket bitiş konumu: 6,10
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:6,10
+Hedefin konumu: 6,29
+Kasadaki altın miktarı: 5650
+Toplamda ele geçirilen altın mitarı: 8000
+Toplamda harcanan altın miktarı: 2450
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:66
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 6,10 Hareket bitiş konumu: 6,15
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:6,15
+Hedefin konumu: 6,29
+Kasadaki altın miktarı: 5640
+Toplamda ele geçirilen altın mitarı: 8000
+Toplamda harcanan altın miktarı: 2460
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:67
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 6,15 Hareket bitiş konumu: 6,20
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:6,20
+Hedefin konumu: 6,29
+Kasadaki altın miktarı: 5630
+Toplamda ele geçirilen altın mitarı: 8000
+Toplamda harcanan altın miktarı: 2470
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:68
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 6,20 Hareket bitiş konumu: 6,25
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:6,25
+Hedefin konumu: 6,29
+Kasadaki altın miktarı: 5620
+Toplamda ele geçirilen altın mitarı: 8000
+Toplamda harcanan altın miktarı: 2480
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:69
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 6,25 Hareket bitiş konumu: 6,29
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 200
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:6,29
+Hedefin konumu: 6,29
+Kasadaki altın miktarı: 5810
+Toplamda ele geçirilen altın mitarı: 8200
+Toplamda harcanan altın miktarı: 2490
+Bu raund içerisinde kazanılan altın: 200
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:70
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :2,39
+Hareket başlangıç konumu: 6,29 Hareket bitiş konumu: 2,30
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:2,30
+Hedefin konumu: 2,39
+Kasadaki altın miktarı: 5750
+Toplamda ele geçirilen altın mitarı: 8200
+Toplamda harcanan altın miktarı: 2550
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:71
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 2,30 Hareket bitiş konumu: 2,35
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:2,35
+Hedefin konumu: 2,39
+Kasadaki altın miktarı: 5740
+Toplamda ele geçirilen altın mitarı: 8200
+Toplamda harcanan altın miktarı: 2560
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:72
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 2,35 Hareket bitiş konumu: 2,39
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 200
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:2,39
+Hedefin konumu: 2,39
+Kasadaki altın miktarı: 5930
+Toplamda ele geçirilen altın mitarı: 8400
+Toplamda harcanan altın miktarı: 2570
+Bu raund içerisinde kazanılan altın: 200
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:73
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :4,39
+Hareket başlangıç konumu: 2,39 Hareket bitiş konumu: 4,39
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 200
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:4,39
+Hedefin konumu: 4,39
+Kasadaki altın miktarı: 6070
+Toplamda ele geçirilen altın mitarı: 8600
+Toplamda harcanan altın miktarı: 2630
+Bu raund içerisinde kazanılan altın: 200
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:74
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :5,43
+Hareket başlangıç konumu: 4,39 Hareket bitiş konumu: 5,43
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 200
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:5,43
+Hedefin konumu: 5,43
+Kasadaki altın miktarı: 6210
+Toplamda ele geçirilen altın mitarı: 8800
+Toplamda harcanan altın miktarı: 2690
+Bu raund içerisinde kazanılan altın: 200
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:75
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :2,49
+Hareket başlangıç konumu: 5,43 Hareket bitiş konumu: 2,45
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:2,45
+Hedefin konumu: 2,49
+Kasadaki altın miktarı: 6150
+Toplamda ele geçirilen altın mitarı: 8800
+Toplamda harcanan altın miktarı: 2750
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:76
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 2,45 Hareket bitiş konumu: 2,49
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 200
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:2,49
+Hedefin konumu: 2,49
+Kasadaki altın miktarı: 6340
+Toplamda ele geçirilen altın mitarı: 9000
+Toplamda harcanan altın miktarı: 2760
+Bu raund içerisinde kazanılan altın: 200
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:77
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :6,50
+Hareket başlangıç konumu: 2,49 Hareket bitiş konumu: 6,50
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 200
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:6,50
+Hedefin konumu: 6,50
+Kasadaki altın miktarı: 6480
+Toplamda ele geçirilen altın mitarı: 9200
+Toplamda harcanan altın miktarı: 2820
+Bu raund içerisinde kazanılan altın: 200
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:78
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :3,57
+Hareket başlangıç konumu: 6,50 Hareket bitiş konumu: 3,52
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:3,52
+Hedefin konumu: 3,57
+Kasadaki altın miktarı: 6420
+Toplamda ele geçirilen altın mitarı: 9200
+Toplamda harcanan altın miktarı: 2880
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:79
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 3,52 Hareket bitiş konumu: 3,57
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 200
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:3,57
+Hedefin konumu: 3,57
+Kasadaki altın miktarı: 6610
+Toplamda ele geçirilen altın mitarı: 9400
+Toplamda harcanan altın miktarı: 2890
+Bu raund içerisinde kazanılan altın: 200
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:80
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :6,58
+Hareket başlangıç konumu: 3,57 Hareket bitiş konumu: 6,58
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 200
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:6,58
+Hedefin konumu: 6,58
+Kasadaki altın miktarı: 6750
+Toplamda ele geçirilen altın mitarı: 9600
+Toplamda harcanan altın miktarı: 2950
+Bu raund içerisinde kazanılan altın: 200
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:81
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :4,58
+Hareket başlangıç konumu: 6,58 Hareket bitiş konumu: 4,58
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 150
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:4,58
+Hedefin konumu: 4,58
+Kasadaki altın miktarı: 6840
+Toplamda ele geçirilen altın mitarı: 9750
+Toplamda harcanan altın miktarı: 3010
+Bu raund içerisinde kazanılan altın: 150
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:82
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :1,56
+Hareket başlangıç konumu: 4,58 Hareket bitiş konumu: 1,56
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 150
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:1,56
+Hedefin konumu: 1,56
+Kasadaki altın miktarı: 6930
+Toplamda ele geçirilen altın mitarı: 9900
+Toplamda harcanan altın miktarı: 3070
+Bu raund içerisinde kazanılan altın: 150
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:83
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :4,59
+Hareket başlangıç konumu: 1,56 Hareket bitiş konumu: 3,59
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:3,59
+Hedefin konumu: 4,59
+Kasadaki altın miktarı: 6870
+Toplamda ele geçirilen altın mitarı: 9900
+Toplamda harcanan altın miktarı: 3130
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:84
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 3,59 Hareket bitiş konumu: 4,59
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 150
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:4,59
+Hedefin konumu: 4,59
+Kasadaki altın miktarı: 7010
+Toplamda ele geçirilen altın mitarı: 10050
+Toplamda harcanan altın miktarı: 3140
+Bu raund içerisinde kazanılan altın: 150
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:85
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :5,59
+Hareket başlangıç konumu: 4,59 Hareket bitiş konumu: 5,59
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 150
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:5,59
+Hedefin konumu: 5,59
+Kasadaki altın miktarı: 7100
+Toplamda ele geçirilen altın mitarı: 10200
+Toplamda harcanan altın miktarı: 3200
+Bu raund içerisinde kazanılan altın: 150
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:86
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :13,33
+Hareket başlangıç konumu: 5,59 Hareket bitiş konumu: 8,57
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:8,57
+Hedefin konumu: 13,33
+Kasadaki altın miktarı: 7040
+Toplamda ele geçirilen altın mitarı: 10200
+Toplamda harcanan altın miktarı: 3260
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:87
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 8,57 Hareket bitiş konumu: 13,57
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:13,57
+Hedefin konumu: 13,33
+Kasadaki altın miktarı: 7030
+Toplamda ele geçirilen altın mitarı: 10200
+Toplamda harcanan altın miktarı: 3270
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:88
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 13,57 Hareket bitiş konumu: 13,52
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:13,52
+Hedefin konumu: 13,33
+Kasadaki altın miktarı: 7020
+Toplamda ele geçirilen altın mitarı: 10200
+Toplamda harcanan altın miktarı: 3280
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:89
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 13,52 Hareket bitiş konumu: 13,47
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:13,47
+Hedefin konumu: 13,33
+Kasadaki altın miktarı: 7010
+Toplamda ele geçirilen altın mitarı: 10200
+Toplamda harcanan altın miktarı: 3290
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:90
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 13,47 Hareket bitiş konumu: 13,42
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:13,42
+Hedefin konumu: 13,33
+Kasadaki altın miktarı: 7000
+Toplamda ele geçirilen altın mitarı: 10200
+Toplamda harcanan altın miktarı: 3300
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:91
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 13,42 Hareket bitiş konumu: 13,37
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:13,37
+Hedefin konumu: 13,33
+Kasadaki altın miktarı: 6990
+Toplamda ele geçirilen altın mitarı: 10200
+Toplamda harcanan altın miktarı: 3310
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:92
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 13,37 Hareket bitiş konumu: 13,33
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 200
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:13,33
+Hedefin konumu: 13,33
+Kasadaki altın miktarı: 7180
+Toplamda ele geçirilen altın mitarı: 10400
+Toplamda harcanan altın miktarı: 3320
+Bu raund içerisinde kazanılan altın: 200
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:93
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :3,31
+Hareket başlangıç konumu: 13,33 Hareket bitiş konumu: 10,31
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:10,31
+Hedefin konumu: 3,31
+Kasadaki altın miktarı: 7120
+Toplamda ele geçirilen altın mitarı: 10400
+Toplamda harcanan altın miktarı: 3380
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:94
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 10,31 Hareket bitiş konumu: 5,31
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:5,31
+Hedefin konumu: 3,31
+Kasadaki altın miktarı: 7110
+Toplamda ele geçirilen altın mitarı: 10400
+Toplamda harcanan altın miktarı: 3390
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:95
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 5,31 Hareket bitiş konumu: 3,31
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 150
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:3,31
+Hedefin konumu: 3,31
+Kasadaki altın miktarı: 7250
+Toplamda ele geçirilen altın mitarı: 10550
+Toplamda harcanan altın miktarı: 3400
+Bu raund içerisinde kazanılan altın: 150
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:96
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :1,23
+Hareket başlangıç konumu: 3,31 Hareket bitiş konumu: 1,28
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:1,28
+Hedefin konumu: 1,23
+Kasadaki altın miktarı: 7190
+Toplamda ele geçirilen altın mitarı: 10550
+Toplamda harcanan altın miktarı: 3460
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:97
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 1,28 Hareket bitiş konumu: 1,23
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 150
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:1,23
+Hedefin konumu: 1,23
+Kasadaki altın miktarı: 7330
+Toplamda ele geçirilen altın mitarı: 10700
+Toplamda harcanan altın miktarı: 3470
+Bu raund içerisinde kazanılan altın: 150
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:98
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :3,14
+Hareket başlangıç konumu: 1,23 Hareket bitiş konumu: 3,20
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:3,20
+Hedefin konumu: 3,14
+Kasadaki altın miktarı: 7270
+Toplamda ele geçirilen altın mitarı: 10700
+Toplamda harcanan altın miktarı: 3530
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:99
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 3,20 Hareket bitiş konumu: 3,15
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:3,15
+Hedefin konumu: 3,14
+Kasadaki altın miktarı: 7260
+Toplamda ele geçirilen altın mitarı: 10700
+Toplamda harcanan altın miktarı: 3540
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:100
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 3,15 Hareket bitiş konumu: 3,14
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 150
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:3,14
+Hedefin konumu: 3,14
+Kasadaki altın miktarı: 7400
+Toplamda ele geçirilen altın mitarı: 10850
+Toplamda harcanan altın miktarı: 3550
+Bu raund içerisinde kazanılan altın: 150
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:101
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :10,15
+Hareket başlangıç konumu: 3,14 Hareket bitiş konumu: 7,15
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:7,15
+Hedefin konumu: 10,15
+Kasadaki altın miktarı: 7340
+Toplamda ele geçirilen altın mitarı: 10850
+Toplamda harcanan altın miktarı: 3610
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:102
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 7,15 Hareket bitiş konumu: 10,15
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 150
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:10,15
+Hedefin konumu: 10,15
+Kasadaki altın miktarı: 7480
+Toplamda ele geçirilen altın mitarı: 11000
+Toplamda harcanan altın miktarı: 3620
+Bu raund içerisinde kazanılan altın: 150
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:103
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :12,16
+Hareket başlangıç konumu: 10,15 Hareket bitiş konumu: 12,16
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 150
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:12,16
+Hedefin konumu: 12,16
+Kasadaki altın miktarı: 7570
+Toplamda ele geçirilen altın mitarı: 11150
+Toplamda harcanan altın miktarı: 3680
+Bu raund içerisinde kazanılan altın: 150
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:104
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :8,5
+Hareket başlangıç konumu: 12,16 Hareket bitiş konumu: 8,15
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:8,15
+Hedefin konumu: 8,5
+Kasadaki altın miktarı: 7510
+Toplamda ele geçirilen altın mitarı: 11150
+Toplamda harcanan altın miktarı: 3740
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:105
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 8,15 Hareket bitiş konumu: 8,10
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:8,10
+Hedefin konumu: 8,5
+Kasadaki altın miktarı: 7500
+Toplamda ele geçirilen altın mitarı: 11150
+Toplamda harcanan altın miktarı: 3750
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:106
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 8,10 Hareket bitiş konumu: 8,5
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 150
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:8,5
+Hedefin konumu: 8,5
+Kasadaki altın miktarı: 7640
+Toplamda ele geçirilen altın mitarı: 11300
+Toplamda harcanan altın miktarı: 3760
+Bu raund içerisinde kazanılan altın: 150
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:107
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :8,2
+Hareket başlangıç konumu: 8,5 Hareket bitiş konumu: 8,2
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 100
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:8,2
+Hedefin konumu: 8,2
+Kasadaki altın miktarı: 7680
+Toplamda ele geçirilen altın mitarı: 11400
+Toplamda harcanan altın miktarı: 3820
+Bu raund içerisinde kazanılan altın: 100
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:108
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :4,7
+Hareket başlangıç konumu: 8,2 Hareket bitiş konumu: 8,7
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:8,7
+Hedefin konumu: 4,7
+Kasadaki altın miktarı: 7620
+Toplamda ele geçirilen altın mitarı: 11400
+Toplamda harcanan altın miktarı: 3880
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:109
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 8,7 Hareket bitiş konumu: 4,7
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 100
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:4,7
+Hedefin konumu: 4,7
+Kasadaki altın miktarı: 7710
+Toplamda ele geçirilen altın mitarı: 11500
+Toplamda harcanan altın miktarı: 3890
+Bu raund içerisinde kazanılan altın: 100
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:110
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :10,10
+Hareket başlangıç konumu: 4,7 Hareket bitiş konumu: 6,10
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:6,10
+Hedefin konumu: 10,10
+Kasadaki altın miktarı: 7650
+Toplamda ele geçirilen altın mitarı: 11500
+Toplamda harcanan altın miktarı: 3950
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:111
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 6,10 Hareket bitiş konumu: 10,10
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 100
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:10,10
+Hedefin konumu: 10,10
+Kasadaki altın miktarı: 7740
+Toplamda ele geçirilen altın mitarı: 11600
+Toplamda harcanan altın miktarı: 3960
+Bu raund içerisinde kazanılan altın: 100
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:112
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :16,9
+Hareket başlangıç konumu: 10,10 Hareket bitiş konumu: 14,9
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:14,9
+Hedefin konumu: 16,9
+Kasadaki altın miktarı: 7680
+Toplamda ele geçirilen altın mitarı: 11600
+Toplamda harcanan altın miktarı: 4020
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:113
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 14,9 Hareket bitiş konumu: 16,9
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 100
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:16,9
+Hedefin konumu: 16,9
+Kasadaki altın miktarı: 7770
+Toplamda ele geçirilen altın mitarı: 11700
+Toplamda harcanan altın miktarı: 4030
+Bu raund içerisinde kazanılan altın: 100
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:114
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :9,45
+Hareket başlangıç konumu: 16,9 Hareket bitiş konumu: 13,11
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:13,11
+Hedefin konumu: 9,45
+Kasadaki altın miktarı: 7710
+Toplamda ele geçirilen altın mitarı: 11700
+Toplamda harcanan altın miktarı: 4090
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:115
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 13,11 Hareket bitiş konumu: 9,12
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,12
+Hedefin konumu: 9,45
+Kasadaki altın miktarı: 7700
+Toplamda ele geçirilen altın mitarı: 11700
+Toplamda harcanan altın miktarı: 4100
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:116
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 9,12 Hareket bitiş konumu: 9,17
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,17
+Hedefin konumu: 9,45
+Kasadaki altın miktarı: 7690
+Toplamda ele geçirilen altın mitarı: 11700
+Toplamda harcanan altın miktarı: 4110
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:117
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 9,17 Hareket bitiş konumu: 9,22
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,22
+Hedefin konumu: 9,45
+Kasadaki altın miktarı: 7680
+Toplamda ele geçirilen altın mitarı: 11700
+Toplamda harcanan altın miktarı: 4120
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:118
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 9,22 Hareket bitiş konumu: 9,27
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,27
+Hedefin konumu: 9,45
+Kasadaki altın miktarı: 7670
+Toplamda ele geçirilen altın mitarı: 11700
+Toplamda harcanan altın miktarı: 4130
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:119
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 9,27 Hareket bitiş konumu: 9,32
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,32
+Hedefin konumu: 9,45
+Kasadaki altın miktarı: 7660
+Toplamda ele geçirilen altın mitarı: 11700
+Toplamda harcanan altın miktarı: 4140
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:120
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 9,32 Hareket bitiş konumu: 9,37
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,37
+Hedefin konumu: 9,45
+Kasadaki altın miktarı: 7650
+Toplamda ele geçirilen altın mitarı: 11700
+Toplamda harcanan altın miktarı: 4150
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:121
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 9,37 Hareket bitiş konumu: 9,42
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,42
+Hedefin konumu: 9,45
+Kasadaki altın miktarı: 7640
+Toplamda ele geçirilen altın mitarı: 11700
+Toplamda harcanan altın miktarı: 4160
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:122
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 9,42 Hareket bitiş konumu: 9,45
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 150
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,45
+Hedefin konumu: 9,45
+Kasadaki altın miktarı: 7780
+Toplamda ele geçirilen altın mitarı: 11850
+Toplamda harcanan altın miktarı: 4170
+Bu raund içerisinde kazanılan altın: 150
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:123
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :7,46
+Hareket başlangıç konumu: 9,45 Hareket bitiş konumu: 7,46
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 150
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:7,46
+Hedefin konumu: 7,46
+Kasadaki altın miktarı: 7870
+Toplamda ele geçirilen altın mitarı: 12000
+Toplamda harcanan altın miktarı: 4230
+Bu raund içerisinde kazanılan altın: 150
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:124
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :4,48
+Hareket başlangıç konumu: 7,46 Hareket bitiş konumu: 4,48
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 150
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:4,48
+Hedefin konumu: 4,48
+Kasadaki altın miktarı: 7960
+Toplamda ele geçirilen altın mitarı: 12150
+Toplamda harcanan altın miktarı: 4290
+Bu raund içerisinde kazanılan altın: 150
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:125
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :11,51
+Hareket başlangıç konumu: 4,48 Hareket bitiş konumu: 6,51
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:6,51
+Hedefin konumu: 11,51
+Kasadaki altın miktarı: 7900
+Toplamda ele geçirilen altın mitarı: 12150
+Toplamda harcanan altın miktarı: 4350
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:126
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 6,51 Hareket bitiş konumu: 11,51
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 150
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:11,51
+Hedefin konumu: 11,51
+Kasadaki altın miktarı: 8040
+Toplamda ele geçirilen altın mitarı: 12300
+Toplamda harcanan altın miktarı: 4360
+Bu raund içerisinde kazanılan altın: 150
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:127
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :8,50
+Hareket başlangıç konumu: 11,51 Hareket bitiş konumu: 8,50
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 100
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:8,50
+Hedefin konumu: 8,50
+Kasadaki altın miktarı: 8080
+Toplamda ele geçirilen altın mitarı: 12400
+Toplamda harcanan altın miktarı: 4420
+Bu raund içerisinde kazanılan altın: 100
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:128
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :4,54
+Hareket başlangıç konumu: 8,50 Hareket bitiş konumu: 7,54
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:7,54
+Hedefin konumu: 4,54
+Kasadaki altın miktarı: 8020
+Toplamda ele geçirilen altın mitarı: 12400
+Toplamda harcanan altın miktarı: 4480
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:129
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 7,54 Hareket bitiş konumu: 4,54
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 100
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:4,54
+Hedefin konumu: 4,54
+Kasadaki altın miktarı: 8110
+Toplamda ele geçirilen altın mitarı: 12500
+Toplamda harcanan altın miktarı: 4490
+Bu raund içerisinde kazanılan altın: 100
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:130
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :14,42
+Hareket başlangıç konumu: 4,54 Hareket bitiş konumu: 7,52
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:7,52
+Hedefin konumu: 14,42
+Kasadaki altın miktarı: 8050
+Toplamda ele geçirilen altın mitarı: 12500
+Toplamda harcanan altın miktarı: 4550
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:131
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 7,52 Hareket bitiş konumu: 10,50
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:10,50
+Hedefin konumu: 14,42
+Kasadaki altın miktarı: 8040
+Toplamda ele geçirilen altın mitarı: 12500
+Toplamda harcanan altın miktarı: 4560
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:132
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 10,50 Hareket bitiş konumu: 14,49
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:14,49
+Hedefin konumu: 14,42
+Kasadaki altın miktarı: 8030
+Toplamda ele geçirilen altın mitarı: 12500
+Toplamda harcanan altın miktarı: 4570
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:133
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 14,49 Hareket bitiş konumu: 14,44
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:14,44
+Hedefin konumu: 14,42
+Kasadaki altın miktarı: 8020
+Toplamda ele geçirilen altın mitarı: 12500
+Toplamda harcanan altın miktarı: 4580
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:134
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 14,44 Hareket bitiş konumu: 14,42
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 100
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:14,42
+Hedefin konumu: 14,42
+Kasadaki altın miktarı: 8110
+Toplamda ele geçirilen altın mitarı: 12600
+Toplamda harcanan altın miktarı: 4590
+Bu raund içerisinde kazanılan altın: 100
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:135
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :17,36
+Hareket başlangıç konumu: 14,42 Hareket bitiş konumu: 17,40
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:17,40
+Hedefin konumu: 17,36
+Kasadaki altın miktarı: 8050
+Toplamda ele geçirilen altın mitarı: 12600
+Toplamda harcanan altın miktarı: 4650
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:136
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 17,40 Hareket bitiş konumu: 17,36
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 100
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:17,36
+Hedefin konumu: 17,36
+Kasadaki altın miktarı: 8140
+Toplamda ele geçirilen altın mitarı: 12700
+Toplamda harcanan altın miktarı: 4660
+Bu raund içerisinde kazanılan altın: 100
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:137
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :12,33
+Hareket başlangıç konumu: 17,36 Hareket bitiş konumu: 15,33
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:15,33
+Hedefin konumu: 12,33
+Kasadaki altın miktarı: 8080
+Toplamda ele geçirilen altın mitarı: 12700
+Toplamda harcanan altın miktarı: 4720
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:138
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 15,33 Hareket bitiş konumu: 12,33
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 100
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:12,33
+Hedefin konumu: 12,33
+Kasadaki altın miktarı: 8170
+Toplamda ele geçirilen altın mitarı: 12800
+Toplamda harcanan altın miktarı: 4730
+Bu raund içerisinde kazanılan altın: 100
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:139
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :0,30
+Hareket başlangıç konumu: 12,33 Hareket bitiş konumu: 10,30
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:10,30
+Hedefin konumu: 0,30
+Kasadaki altın miktarı: 8110
+Toplamda ele geçirilen altın mitarı: 12800
+Toplamda harcanan altın miktarı: 4790
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:140
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 10,30 Hareket bitiş konumu: 5,30
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:5,30
+Hedefin konumu: 0,30
+Kasadaki altın miktarı: 8100
+Toplamda ele geçirilen altın mitarı: 12800
+Toplamda harcanan altın miktarı: 4800
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:141
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 5,30 Hareket bitiş konumu: 0,30
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 100
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:0,30
+Hedefin konumu: 0,30
+Kasadaki altın miktarı: 8190
+Toplamda ele geçirilen altın mitarı: 12900
+Toplamda harcanan altın miktarı: 4810
+Bu raund içerisinde kazanılan altın: 100
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:142
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :3,17
+Hareket başlangıç konumu: 0,30 Hareket bitiş konumu: 3,28
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:3,28
+Hedefin konumu: 3,17
+Kasadaki altın miktarı: 8130
+Toplamda ele geçirilen altın mitarı: 12900
+Toplamda harcanan altın miktarı: 4870
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:143
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 3,28 Hareket bitiş konumu: 3,23
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:3,23
+Hedefin konumu: 3,17
+Kasadaki altın miktarı: 8120
+Toplamda ele geçirilen altın mitarı: 12900
+Toplamda harcanan altın miktarı: 4880
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:144
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 3,23 Hareket bitiş konumu: 3,18
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:3,18
+Hedefin konumu: 3,17
+Kasadaki altın miktarı: 8110
+Toplamda ele geçirilen altın mitarı: 12900
+Toplamda harcanan altın miktarı: 4890
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:145
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 3,18 Hareket bitiş konumu: 3,17
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 100
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:3,17
+Hedefin konumu: 3,17
+Kasadaki altın miktarı: 8200
+Toplamda ele geçirilen altın mitarı: 13000
+Toplamda harcanan altın miktarı: 4900
+Bu raund içerisinde kazanılan altın: 100
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:146
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :11,21
+Hareket başlangıç konumu: 3,17 Hareket bitiş konumu: 4,21
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:4,21
+Hedefin konumu: 11,21
+Kasadaki altın miktarı: 8140
+Toplamda ele geçirilen altın mitarı: 13000
+Toplamda harcanan altın miktarı: 4960
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:147
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 4,21 Hareket bitiş konumu: 9,21
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,21
+Hedefin konumu: 11,21
+Kasadaki altın miktarı: 8130
+Toplamda ele geçirilen altın mitarı: 13000
+Toplamda harcanan altın miktarı: 4970
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:148
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 9,21 Hareket bitiş konumu: 11,21
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 100
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:11,21
+Hedefin konumu: 11,21
+Kasadaki altın miktarı: 8220
+Toplamda ele geçirilen altın mitarı: 13100
+Toplamda harcanan altın miktarı: 4980
+Bu raund içerisinde kazanılan altın: 100
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:149
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :11,18
+Hareket başlangıç konumu: 11,21 Hareket bitiş konumu: 11,18
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:11,18
+Hedefin konumu: 11,18
+Kasadaki altın miktarı: 8210
+Toplamda ele geçirilen altın mitarı: 13150
+Toplamda harcanan altın miktarı: 5040
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:150
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :10,14
+Hareket başlangıç konumu: 11,18 Hareket bitiş konumu: 10,14
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:10,14
+Hedefin konumu: 10,14
+Kasadaki altın miktarı: 8200
+Toplamda ele geçirilen altın mitarı: 13200
+Toplamda harcanan altın miktarı: 5100
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:151
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :9,14
+Hareket başlangıç konumu: 10,14 Hareket bitiş konumu: 9,14
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,14
+Hedefin konumu: 9,14
+Kasadaki altın miktarı: 8190
+Toplamda ele geçirilen altın mitarı: 13250
+Toplamda harcanan altın miktarı: 5160
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:152
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :9,6
+Hareket başlangıç konumu: 9,14 Hareket bitiş konumu: 9,9
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,9
+Hedefin konumu: 9,6
+Kasadaki altın miktarı: 8130
+Toplamda ele geçirilen altın mitarı: 13250
+Toplamda harcanan altın miktarı: 5220
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:153
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 9,9 Hareket bitiş konumu: 9,6
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,6
+Hedefin konumu: 9,6
+Kasadaki altın miktarı: 8170
+Toplamda ele geçirilen altın mitarı: 13300
+Toplamda harcanan altın miktarı: 5230
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:154
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :9,7
+Hareket başlangıç konumu: 9,6 Hareket bitiş konumu: 9,7
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,7
+Hedefin konumu: 9,7
+Kasadaki altın miktarı: 8160
+Toplamda ele geçirilen altın mitarı: 13350
+Toplamda harcanan altın miktarı: 5290
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:155
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :17,10
+Hareket başlangıç konumu: 9,7 Hareket bitiş konumu: 11,10
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:11,10
+Hedefin konumu: 17,10
+Kasadaki altın miktarı: 8100
+Toplamda ele geçirilen altın mitarı: 13350
+Toplamda harcanan altın miktarı: 5350
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:156
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 11,10 Hareket bitiş konumu: 16,10
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:16,10
+Hedefin konumu: 17,10
+Kasadaki altın miktarı: 8090
+Toplamda ele geçirilen altın mitarı: 13350
+Toplamda harcanan altın miktarı: 5360
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:157
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 16,10 Hareket bitiş konumu: 17,10
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:17,10
+Hedefin konumu: 17,10
+Kasadaki altın miktarı: 8130
+Toplamda ele geçirilen altın mitarı: 13400
+Toplamda harcanan altın miktarı: 5370
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:158
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :17,45
+Hareket başlangıç konumu: 17,10 Hareket bitiş konumu: 17,15
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:17,15
+Hedefin konumu: 17,45
+Kasadaki altın miktarı: 8070
+Toplamda ele geçirilen altın mitarı: 13400
+Toplamda harcanan altın miktarı: 5430
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:159
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 17,15 Hareket bitiş konumu: 17,20
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:17,20
+Hedefin konumu: 17,45
+Kasadaki altın miktarı: 8060
+Toplamda ele geçirilen altın mitarı: 13400
+Toplamda harcanan altın miktarı: 5440
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:160
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 17,20 Hareket bitiş konumu: 17,25
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:17,25
+Hedefin konumu: 17,45
+Kasadaki altın miktarı: 8050
+Toplamda ele geçirilen altın mitarı: 13400
+Toplamda harcanan altın miktarı: 5450
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:161
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 17,25 Hareket bitiş konumu: 17,30
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:17,30
+Hedefin konumu: 17,45
+Kasadaki altın miktarı: 8040
+Toplamda ele geçirilen altın mitarı: 13400
+Toplamda harcanan altın miktarı: 5460
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:162
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 17,30 Hareket bitiş konumu: 17,35
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:17,35
+Hedefin konumu: 17,45
+Kasadaki altın miktarı: 8030
+Toplamda ele geçirilen altın mitarı: 13400
+Toplamda harcanan altın miktarı: 5470
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:163
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 17,35 Hareket bitiş konumu: 17,40
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:17,40
+Hedefin konumu: 17,45
+Kasadaki altın miktarı: 8020
+Toplamda ele geçirilen altın mitarı: 13400
+Toplamda harcanan altın miktarı: 5480
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:164
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 17,40 Hareket bitiş konumu: 17,45
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 100
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:17,45
+Hedefin konumu: 17,45
+Kasadaki altın miktarı: 8110
+Toplamda ele geçirilen altın mitarı: 13500
+Toplamda harcanan altın miktarı: 5490
+Bu raund içerisinde kazanılan altın: 100
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:165
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :17,40
+Hareket başlangıç konumu: 17,45 Hareket bitiş konumu: 17,40
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:17,40
+Hedefin konumu: 17,40
+Kasadaki altın miktarı: 8100
+Toplamda ele geçirilen altın mitarı: 13550
+Toplamda harcanan altın miktarı: 5550
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:166
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :6,43
+Hareket başlangıç konumu: 17,40 Hareket bitiş konumu: 15,43
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:15,43
+Hedefin konumu: 6,43
+Kasadaki altın miktarı: 8040
+Toplamda ele geçirilen altın mitarı: 13550
+Toplamda harcanan altın miktarı: 5610
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:167
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 15,43 Hareket bitiş konumu: 10,43
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:10,43
+Hedefin konumu: 6,43
+Kasadaki altın miktarı: 8030
+Toplamda ele geçirilen altın mitarı: 13550
+Toplamda harcanan altın miktarı: 5620
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:168
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 10,43 Hareket bitiş konumu: 6,43
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:6,43
+Hedefin konumu: 6,43
+Kasadaki altın miktarı: 8070
+Toplamda ele geçirilen altın mitarı: 13600
+Toplamda harcanan altın miktarı: 5630
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:169
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :5,44
+Hareket başlangıç konumu: 6,43 Hareket bitiş konumu: 5,44
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:5,44
+Hedefin konumu: 5,44
+Kasadaki altın miktarı: 8060
+Toplamda ele geçirilen altın mitarı: 13650
+Toplamda harcanan altın miktarı: 5690
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:170
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :6,45
+Hareket başlangıç konumu: 5,44 Hareket bitiş konumu: 6,45
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:6,45
+Hedefin konumu: 6,45
+Kasadaki altın miktarı: 8050
+Toplamda ele geçirilen altın mitarı: 13700
+Toplamda harcanan altın miktarı: 5750
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:171
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :8,45
+Hareket başlangıç konumu: 6,45 Hareket bitiş konumu: 8,45
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:8,45
+Hedefin konumu: 8,45
+Kasadaki altın miktarı: 8040
+Toplamda ele geçirilen altın mitarı: 13750
+Toplamda harcanan altın miktarı: 5810
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:172
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :9,48
+Hareket başlangıç konumu: 8,45 Hareket bitiş konumu: 9,48
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,48
+Hedefin konumu: 9,48
+Kasadaki altın miktarı: 8030
+Toplamda ele geçirilen altın mitarı: 13800
+Toplamda harcanan altın miktarı: 5870
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:173
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :13,49
+Hareket başlangıç konumu: 9,48 Hareket bitiş konumu: 13,49
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:13,49
+Hedefin konumu: 13,49
+Kasadaki altın miktarı: 8020
+Toplamda ele geçirilen altın mitarı: 13850
+Toplamda harcanan altın miktarı: 5930
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:174
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :14,53
+Hareket başlangıç konumu: 13,49 Hareket bitiş konumu: 14,53
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:14,53
+Hedefin konumu: 14,53
+Kasadaki altın miktarı: 8010
+Toplamda ele geçirilen altın mitarı: 13900
+Toplamda harcanan altın miktarı: 5990
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:175
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :10,54
+Hareket başlangıç konumu: 14,53 Hareket bitiş konumu: 10,54
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:10,54
+Hedefin konumu: 10,54
+Kasadaki altın miktarı: 8000
+Toplamda ele geçirilen altın mitarı: 13950
+Toplamda harcanan altın miktarı: 6050
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:176
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :9,58
+Hareket başlangıç konumu: 10,54 Hareket bitiş konumu: 9,58
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,58
+Hedefin konumu: 9,58
+Kasadaki altın miktarı: 7990
+Toplamda ele geçirilen altın mitarı: 14000
+Toplamda harcanan altın miktarı: 6110
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:177
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :1,59
+Hareket başlangıç konumu: 9,58 Hareket bitiş konumu: 5,59
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:5,59
+Hedefin konumu: 1,59
+Kasadaki altın miktarı: 7930
+Toplamda ele geçirilen altın mitarı: 14000
+Toplamda harcanan altın miktarı: 6170
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:178
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 5,59 Hareket bitiş konumu: 1,59
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:1,59
+Hedefin konumu: 1,59
+Kasadaki altın miktarı: 7970
+Toplamda ele geçirilen altın mitarı: 14050
+Toplamda harcanan altın miktarı: 6180
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:179
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :0,56
+Hareket başlangıç konumu: 1,59 Hareket bitiş konumu: 0,56
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:0,56
+Hedefin konumu: 0,56
+Kasadaki altın miktarı: 7960
+Toplamda ele geçirilen altın mitarı: 14100
+Toplamda harcanan altın miktarı: 6240
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:180
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :1,54
+Hareket başlangıç konumu: 0,56 Hareket bitiş konumu: 1,54
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:1,54
+Hedefin konumu: 1,54
+Kasadaki altın miktarı: 7950
+Toplamda ele geçirilen altın mitarı: 14150
+Toplamda harcanan altın miktarı: 6300
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:181
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :13,56
+Hareket başlangıç konumu: 1,54 Hareket bitiş konumu: 4,56
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:4,56
+Hedefin konumu: 13,56
+Kasadaki altın miktarı: 7890
+Toplamda ele geçirilen altın mitarı: 14150
+Toplamda harcanan altın miktarı: 6360
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:182
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 4,56 Hareket bitiş konumu: 9,56
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,56
+Hedefin konumu: 13,56
+Kasadaki altın miktarı: 7880
+Toplamda ele geçirilen altın mitarı: 14150
+Toplamda harcanan altın miktarı: 6370
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:183
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 9,56 Hareket bitiş konumu: 13,56
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:13,56
+Hedefin konumu: 13,56
+Kasadaki altın miktarı: 7920
+Toplamda ele geçirilen altın mitarı: 14200
+Toplamda harcanan altın miktarı: 6380
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:184
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :9,35
+Hareket başlangıç konumu: 13,56 Hareket bitiş konumu: 9,55
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,55
+Hedefin konumu: 9,35
+Kasadaki altın miktarı: 7860
+Toplamda ele geçirilen altın mitarı: 14200
+Toplamda harcanan altın miktarı: 6440
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:185
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 9,55 Hareket bitiş konumu: 9,50
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,50
+Hedefin konumu: 9,35
+Kasadaki altın miktarı: 7850
+Toplamda ele geçirilen altın mitarı: 14200
+Toplamda harcanan altın miktarı: 6450
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:186
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 9,50 Hareket bitiş konumu: 9,45
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,45
+Hedefin konumu: 9,35
+Kasadaki altın miktarı: 7840
+Toplamda ele geçirilen altın mitarı: 14200
+Toplamda harcanan altın miktarı: 6460
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:187
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 9,45 Hareket bitiş konumu: 9,40
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,40
+Hedefin konumu: 9,35
+Kasadaki altın miktarı: 7830
+Toplamda ele geçirilen altın mitarı: 14200
+Toplamda harcanan altın miktarı: 6470
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:188
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 9,40 Hareket bitiş konumu: 9,35
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,35
+Hedefin konumu: 9,35
+Kasadaki altın miktarı: 7870
+Toplamda ele geçirilen altın mitarı: 14250
+Toplamda harcanan altın miktarı: 6480
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:189
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :12,34
+Hareket başlangıç konumu: 9,35 Hareket bitiş konumu: 12,34
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:12,34
+Hedefin konumu: 12,34
+Kasadaki altın miktarı: 7860
+Toplamda ele geçirilen altın mitarı: 14300
+Toplamda harcanan altın miktarı: 6540
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:190
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :16,29
+Hareket başlangıç konumu: 12,34 Hareket bitiş konumu: 12,29
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:12,29
+Hedefin konumu: 16,29
+Kasadaki altın miktarı: 7800
+Toplamda ele geçirilen altın mitarı: 14300
+Toplamda harcanan altın miktarı: 6600
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:191
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 12,29 Hareket bitiş konumu: 16,29
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:16,29
+Hedefin konumu: 16,29
+Kasadaki altın miktarı: 7840
+Toplamda ele geçirilen altın mitarı: 14350
+Toplamda harcanan altın miktarı: 6610
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:192
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :15,25
+Hareket başlangıç konumu: 16,29 Hareket bitiş konumu: 15,25
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:15,25
+Hedefin konumu: 15,25
+Kasadaki altın miktarı: 7830
+Toplamda ele geçirilen altın mitarı: 14400
+Toplamda harcanan altın miktarı: 6670
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:193
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :15,19
+Hareket başlangıç konumu: 15,25 Hareket bitiş konumu: 15,20
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:15,20
+Hedefin konumu: 15,19
+Kasadaki altın miktarı: 7770
+Toplamda ele geçirilen altın mitarı: 14400
+Toplamda harcanan altın miktarı: 6730
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:194
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 15,20 Hareket bitiş konumu: 15,19
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:15,19
+Hedefin konumu: 15,19
+Kasadaki altın miktarı: 7810
+Toplamda ele geçirilen altın mitarı: 14450
+Toplamda harcanan altın miktarı: 6740
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:195
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :2,23
+Hareket başlangıç konumu: 15,19 Hareket bitiş konumu: 14,23
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:14,23
+Hedefin konumu: 2,23
+Kasadaki altın miktarı: 7750
+Toplamda ele geçirilen altın mitarı: 14450
+Toplamda harcanan altın miktarı: 6800
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:196
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 14,23 Hareket bitiş konumu: 9,23
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:9,23
+Hedefin konumu: 2,23
+Kasadaki altın miktarı: 7740
+Toplamda ele geçirilen altın mitarı: 14450
+Toplamda harcanan altın miktarı: 6810
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:197
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 9,23 Hareket bitiş konumu: 4,23
+Bu raund boyunca harcanan altın miktarı: 10
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:4,23
+Hedefin konumu: 2,23
+Kasadaki altın miktarı: 7730
+Toplamda ele geçirilen altın mitarı: 14450
+Toplamda harcanan altın miktarı: 6820
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:198
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 4,23 Hareket bitiş konumu: 2,23
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:2,23
+Hedefin konumu: 2,23
+Kasadaki altın miktarı: 7770
+Toplamda ele geçirilen altın mitarı: 14500
+Toplamda harcanan altın miktarı: 6830
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:199
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :2,31
+Hareket başlangıç konumu: 2,23 Hareket bitiş konumu: 2,28
+Bu raund boyunca harcanan altın miktarı: 60
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:2,28
+Hedefin konumu: 2,31
+Kasadaki altın miktarı: 7710
+Toplamda ele geçirilen altın mitarı: 14500
+Toplamda harcanan altın miktarı: 6890
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:200
+
+Gerçekleşen olaylar:
+
+Hareket başlangıç konumu: 2,28 Hareket bitiş konumu: 2,31
+Bu raund boyunca harcanan altın miktarı: 10
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:2,31
+Hedefin konumu: 2,31
+Kasadaki altın miktarı: 7750
+Toplamda ele geçirilen altın mitarı: 14550
+Toplamda harcanan altın miktarı: 6900
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 10
+
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+Raund:201
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :1,35
+Hareket başlangıç konumu: 2,31 Hareket bitiş konumu: 1,35
+Bu raund boyunca harcanan altın miktarı: 60
+Bu raund içerisinde altın ele geçirildi miktarı: 50
+
+Player B'nin son durumu:
+
+Oyuncunun konumu:1,35
+Hedefin konumu: 1,35
+Kasadaki altın miktarı: 7740
+Toplamda ele geçirilen altın mitarı: 14600
+Toplamda harcanan altın miktarı: 6960
+Bu raund içerisinde kazanılan altın: 50
+Bu raund içerisinde harcanan altın: 60
+
+-------------------------------------------------------------------------------------------------------------------------
+
+
+*************************************************************************************************************************
+OYUN BİTMIŞTİR.
+*************************************************************************************************************************

@@ -1,0 +1,31 @@
+*************************************************************************************************************************
+
+Player A'nın kayırları aşşağıdaki gibidir:
+
+*************************************************************************************************************************
+-------------------------------------------------------------------------------------------------------------------------
+Raund:1
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :3,3
+Hareket başlangıç konumu: 0,0 Hareket bitiş konumu: 2,3
+Bu raund boyunca harcanan altın miktarı: 0
+A oyuncusu Elendiniz, Mevcut dereceniz:0
+
+Player A'nın son durumu:
+
+Oyuncunun konumu:2,3
+Hedefin konumu: 3,3
+Kasadaki altın miktarı: 100
+Toplamda ele geçirilen altın mitarı: 0
+Toplamda harcanan altın miktarı: 0
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: 0
+
+-------------------------------------------------------------------------------------------------------------------------
+
+
+*************************************************************************************************************************
+OYUN BİTMIŞTİR.
+*************************************************************************************************************************

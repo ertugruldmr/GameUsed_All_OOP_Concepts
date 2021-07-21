@@ -1,0 +1,35 @@
+*************************************************************************************************************************
+
+Player C'nin kayırları aşşağıdaki gibidir:
+
+*************************************************************************************************************************
+-------------------------------------------------------------------------------------------------------------------------
+Raund:1
+
+Gerçekleşen olaylar:
+
+Bu raund içerisinde 2 adet gizli altın açılmıştır
+Birinci Altın:15,8
+İkinci Altın:4,16
+
+Bu raund içerisinde Hedef belirlendi, Hedefin konumu :0,0
+Hareket başlangıç konumu: 17,0 Hareket bitiş konumu: 12,0
+Bu raund boyunca harcanan altın miktarı: -5000
+C oyuncusu Elendiniz, Mevcut dereceniz:0
+
+Player C'nin son durumu:
+
+Oyuncunun konumu:12,0
+Hedefin konumu: 0,0
+Kasadaki altın miktarı: 5100
+Toplamda ele geçirilen altın mitarı: 0
+Toplamda harcanan altın miktarı: -5000
+Bu raund içerisinde kazanılan altın: 0
+Bu raund içerisinde harcanan altın: -5000
+
+-------------------------------------------------------------------------------------------------------------------------
+
+
+*************************************************************************************************************************
+OYUN BİTMIŞTİR.
+*************************************************************************************************************************
