@@ -34,6 +34,6 @@ Check "Project Description" "Methods which used in this project" sections where 
 	-->File handling
 	-->Rotating algorithms
 	-->GUI development
-	-->Dinamic structures
+	-->Dynamic data structures
 
 ## Images
